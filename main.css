@@ -53,3 +53,9 @@ a:hover {
 .icons a:hover {
     color: #1565c0;
 }
+
+.portfolio {
+    line-height: 1em;
+    padding: 0;
+    font-size: 1em;
+}
